@@ -1,1 +1,6 @@
-
+{
+  "version": "0.3.0",
+  "date": "2026-03-03",
+  "notes": "— Mode focus (Ctrl+F11)\n— Plein écran F11 avec titlebar masquée\n— Détection des polices système\n— Import de templates (.json et .zip)\n— Section Emplacements dans les paramètres\n— Vérification automatique des mises à jour",
+  "download": "https://github.com/djilanrene/format-updates/releases/download/v0.3.0/Format-Setup-0.3.0.exe"
+}
