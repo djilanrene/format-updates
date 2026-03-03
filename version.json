@@ -1,6 +1,6 @@
 {
   "version": "0.5.0",
   "date": "2026-03-03",
-  "notes": "Release Format v0.5.0",
+  "notes": "- User templates folder automatically created on app startup if it does not exist\r\n- Release title auto-generated from CHANGELOG stats (e.g. \"2 new features, 9 fixes\")\r\n- Fallback title \"Maintenance release\" when no CHANGELOG section found for the version\r\n- Release notes showing empty sections when CHANGELOG had no entry for the tagged version\r\n- CHANGELOG rewritten in English to avoid regex encoding issues with accented headings\r\n- generate_release_notes.py updated to parse English headings (Added/Fixed/Changed/Internal)\r\n- CI/CD: package.json version now auto-bumped by workflow from tag (no manual edit needed)\r\n- CI/CD: commit back to main now includes both package.json and version.json\r\n- Release title placeholder replaced automatically — no more \"Titre de la release\"",
   "download": "https://github.com/djilanrene/format-updates/releases/download/v0.5.0/format-setup-v0.5.0.exe"
 }
