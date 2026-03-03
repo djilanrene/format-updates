@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "date": "2026-03-03",
-  "notes": "— Mode focus (Ctrl+F11)\n— Plein écran F11 avec titlebar masquée\n— Détection des polices système\n— Import de templates (.json et .zip)\n— Section Emplacements dans les paramètres\n— Vérification automatique des mises à jour",
-  "download": "https://github.com/djilanrene/format-updates/releases/download/v0.3.0/Format-Setup-0.3.0.exe"
+  "notes": "feat: crÃ©er la release sur le repo privÃ© en plus du repo public\r\nchore: bump version to 0.4.0\r\nfeat: release v0.4.0 - corrections build, CI/CD, UI et rebranding Pluton Projects",
+  "download": "https://github.com/djilanrene/format-updates/releases/download/v0.4.0/format-setup-v0.4.0.exe"
 }
