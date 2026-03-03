@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "date": "2026-03-03",
-  "notes": "feat: crÃ©er la release sur le repo privÃ© en plus du repo public\r\nchore: bump version to 0.4.0\r\nfeat: release v0.4.0 - corrections build, CI/CD, UI et rebranding Pluton Projects",
-  "download": "https://github.com/djilanrene/format-updates/releases/download/v0.4.0/format-setup-v0.4.0.exe"
+  "notes": "Release Format v0.5.0",
+  "download": "https://github.com/djilanrene/format-updates/releases/download/v0.5.0/format-setup-v0.5.0.exe"
 }
